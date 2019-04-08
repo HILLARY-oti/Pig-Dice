@@ -12,13 +12,13 @@ input[type=text], select {
     padding: 10px 16px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid yellow;
     box-sizing: border-box;
-	background-color: #ccc;
+	background-color:burlywood;
 }
 .btn{
-    background-color: 	#3232ff;
-    color: white;
+    background-color: 	blueviolet;
+    color: green;
     font-size: 18px;
     padding: 12px 20px;
     margin: 8px 0;
